@@ -52,7 +52,8 @@ The performance of the models was evaluated, and the results are as follows:
 To further improve the classification performance, a voting classifier was implemented, combining the predictions from the SVC and Decision Tree models.
 
 ## Frontend Development
-The frontend of the application was developed using **Streamlit**, allowing users to interactively input URLs and receive predictions on their legitimacy.
+The frontend of the application was developed using **Streamlit**, allowing users to interactively input URLs and receive predictions on their legitimacy.<br>
+Link to website :- https://securesurf.streamlit.app/
 
 ## Contact
 Prateek Singh - prateek12301singh@gmail.com
